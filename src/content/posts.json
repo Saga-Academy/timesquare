@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": "post1",
+      "author": "Sarah Chen",
+      "avatar": "/assets/avatar1.jpg",
+      "text": "Just arrived in Kyoto! The cherry blossoms are absolutely breathtaking this time of year. 🌸 Can't wait to explore the ancient temples and capture some amazing shots.",
+      "media": "/assets/post1.jpg",
+      "mediaType": "image",
+      "createdAt": "2026-01-30T10:30:00Z",
+      "likes": 234,
+      "comments": [
+        {
+          "id": "c1",
+          "author": "Marcus Johnson",
+          "avatar": "/assets/avatar2.jpg",
+          "text": "Stunning! Have an amazing trip! 📸",
+          "createdAt": "2026-01-30T11:15:00Z"
+        },
+        {
+          "id": "c2",
+          "author": "Emma Williams",
+          "avatar": "/assets/avatar3.jpg",
+          "text": "Kyoto is on my bucket list! Enjoy every moment ✨",
+          "createdAt": "2026-01-30T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "post2",
+      "author": "Marcus Johnson",
+      "avatar": "/assets/avatar2.jpg",
+      "text": "Finally launched my new project after 6 months of hard work! 🚀 It's amazing what you can achieve when you stay focused and keep pushing forward. #buildinpublic #startup",
+      "media": "/assets/post2.jpg",
+      "mediaType": "image",
+      "createdAt": "2026-01-29T16:45:00Z",
+      "likes": 567,
+      "comments": [
+        {
+          "id": "c3",
+          "author": "David Park",
+          "avatar": "/assets/avatar4.jpg",
+          "text": "Congratulations! The design looks incredible 🔥",
+          "createdAt": "2026-01-29T17:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "post3",
+      "author": "Emma Williams",
+      "avatar": "/assets/avatar3.jpg",
+      "text": "Homemade pasta night! There's something so therapeutic about making food from scratch. 🍝 Recipe in my stories!",
+      "media": "/assets/post3.jpg",
+      "mediaType": "image",
+      "createdAt": "2026-01-29T19:20:00Z",
+      "likes": 892,
+      "comments": [
+        {
+          "id": "c4",
+          "author": "Lisa Anderson",
+          "avatar": "/assets/avatar5.jpg",
+          "text": "That looks delicious! Saving this for later 😋",
+          "createdAt": "2026-01-29T20:00:00Z"
+        },
+        {
+          "id": "c5",
+          "author": "Sarah Chen",
+          "avatar": "/assets/avatar1.jpg",
+          "text": "Teach me your ways! I need to learn how to make pasta 🙏",
+          "createdAt": "2026-01-29T21:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "post4",
+      "author": "David Park",
+      "avatar": "/assets/avatar4.jpg",
+      "text": "Minimalism isn't about having less. It's about making room for what matters. 🎨 Just finished redesigning my workspace and it feels so much more inspiring.",
+      "media": "/assets/post4.jpg",
+      "mediaType": "image",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "likes": 445,
+      "comments": []
+    },
+    {
+      "id": "post5",
+      "author": "Lisa Anderson",
+      "avatar": "/assets/avatar5.jpg",
+      "text": "Morning workout complete! 💪 5K run and some strength training. Remember, progress not perfection. Every small step counts towards your goals!",
+      "media": "/assets/post5.jpg",
+      "mediaType": "image",
+      "createdAt": "2026-01-28T08:30:00Z",
+      "likes": 1234,
+      "comments": [
+        {
+          "id": "c6",
+          "author": "Marcus Johnson",
+          "avatar": "/assets/avatar2.jpg",
+          "text": "You're such an inspiration! Need to get back into my routine 🏃‍♂️",
+          "createdAt": "2026-01-28T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "post6",
+      "author": "Sarah Chen",
+      "avatar": "/assets/avatar1.jpg",
+      "text": "Sometimes the best shots are the ones you don't plan. Caught this sunset while walking back to my hotel. Nature never fails to amaze me. 🌅",
+      "media": "/assets/post6.jpg",
+      "mediaType": "image",
+      "createdAt": "2026-01-27T18:45:00Z",
+      "likes": 678,
+      "comments": []
+    }
+  ]
+}

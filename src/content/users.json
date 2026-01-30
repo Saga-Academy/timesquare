@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "name": "Sarah Chen",
+      "avatar": "/assets/avatar1.jpg",
+      "bio": "Photographer & Travel enthusiast 🌍 Capturing moments around the globe",
+      "followers": 1247,
+      "following": 342,
+      "posts": 89
+    },
+    {
+      "id": "user2",
+      "name": "Marcus Johnson",
+      "avatar": "/assets/avatar2.jpg",
+      "bio": "Tech lover | Coffee addict ☕ | Building the future one line at a time",
+      "followers": 892,
+      "following": 156,
+      "posts": 234
+    },
+    {
+      "id": "user3",
+      "name": "Emma Williams",
+      "avatar": "/assets/avatar3.jpg",
+      "bio": "Foodie 🍜 | Lifestyle blogger | Sharing my daily adventures",
+      "followers": 3456,
+      "following": 567,
+      "posts": 412
+    },
+    {
+      "id": "user4",
+      "name": "David Park",
+      "avatar": "/assets/avatar4.jpg",
+      "bio": "Designer 🎨 | Minimalist | Creating beautiful experiences",
+      "followers": 2103,
+      "following": 289,
+      "posts": 156
+    },
+    {
+      "id": "user5",
+      "name": "Lisa Anderson",
+      "avatar": "/assets/avatar5.jpg",
+      "bio": "Fitness coach 💪 | Health enthusiast | Inspiring others to be their best",
+      "followers": 5678,
+      "following": 423,
+      "posts": 678
+    }
+  ]
+}

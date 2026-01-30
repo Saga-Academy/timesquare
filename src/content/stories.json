@@ -1,0 +1,44 @@
+{
+  "stories": [
+    {
+      "id": "story1",
+      "author": "Sarah Chen",
+      "avatar": "/assets/avatar1.jpg",
+      "media": "/assets/story1.jpg",
+      "mediaType": "image",
+      "expiresAt": "2026-01-31T10:30:00Z"
+    },
+    {
+      "id": "story2",
+      "author": "Marcus Johnson",
+      "avatar": "/assets/avatar2.jpg",
+      "media": "/assets/story2.jpg",
+      "mediaType": "image",
+      "expiresAt": "2026-01-31T16:45:00Z"
+    },
+    {
+      "id": "story3",
+      "author": "Emma Williams",
+      "avatar": "/assets/avatar3.jpg",
+      "media": "/assets/story3.jpg",
+      "mediaType": "image",
+      "expiresAt": "2026-01-31T19:20:00Z"
+    },
+    {
+      "id": "story4",
+      "author": "David Park",
+      "avatar": "/assets/avatar4.jpg",
+      "media": "/assets/story4.jpg",
+      "mediaType": "image",
+      "expiresAt": "2026-01-31T14:00:00Z"
+    },
+    {
+      "id": "story5",
+      "author": "Lisa Anderson",
+      "avatar": "/assets/avatar5.jpg",
+      "media": "/assets/story5.jpg",
+      "mediaType": "image",
+      "expiresAt": "2026-01-31T08:30:00Z"
+    }
+  ]
+}
